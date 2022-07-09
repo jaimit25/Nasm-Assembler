@@ -13,7 +13,7 @@
 ; gcc -o hello hello.o
 ; ./hello
 ; Hello Jaimit
-
+; https://www.eecg.utoronto.ca/~amza/www.mindsec.com/files/x86regs.html
 
           global    _main
           extern    _puts
